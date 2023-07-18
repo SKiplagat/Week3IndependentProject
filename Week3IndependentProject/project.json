@@ -1,19 +1,19 @@
 {
-  "name": "BlankProcess",
-  "projectId": "c1cad130-2163-42c7-a438-ea72ca3a15ab",
-  "description": "Blank Process",
+  "name": "Week3IndependentProject",
+  "projectId": "ae8bc162-47b8-4c14-a27a-916dff0f0b96",
+  "description": "Week 3 Independent Project",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.20.1]",
-    "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.System.Activities": "[23.4.2]",
-    "UiPath.Testing.Activities": "[23.4.0]",
-    "UiPath.UIAutomation.Activities": "[23.4.4]"
+    "UiPath.Excel.Activities": "[2.21.0-preview]",
+    "UiPath.Mail.Activities": "[1.20.2]",
+    "UiPath.System.Activities": "[23.6.0-preview]",
+    "UiPath.Testing.Activities": "[23.6.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.6.1-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "23.4.0.0",
+  "studioVersion": "23.6.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "433a2a2e-f4f7-4997-b7d3-03e1bcc4365f",
+      "uniqueId": "aebd66f6-27a8-40b2-9d53-c3c9ca6b2831",
       "input": [],
       "output": []
     }
